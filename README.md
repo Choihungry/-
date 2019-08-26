@@ -61,4 +61,4 @@ C <- gsub("삭제하고 싶은 단어","",cosmos3)
 ~~~
 #### 먼저 확인. 삭제할 단어가 있다면: "삭제하고 싶은 단어" -> "" 공백으로 대체하는 과정
 #### 삭제할 단어가 여러 개 일때 앞서 gsub로 하나하나 삭제해도 되지만 이를 for문으로도 응용할 수 있다.
-#### 
+####  http://www.datamarket.kr/xe/?mid=board_ecko11&sort_index=title&order_type=asc&search_target=tag&search_keyword=R&page=2&document_srl=532
